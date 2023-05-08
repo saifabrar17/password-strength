@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.passDiv{
+  padding-top: 20px;
+}
+
+.passDiv label{
+  font-size: 18px;
+  font-weight: 500;
+}
