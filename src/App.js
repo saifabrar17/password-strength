@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import PasswordStrengthChecker from './components/PasswordStrengthChecker';
+
+import "./App.css";
+import CardReader from "./CardReader";
 
 function App() {
   return (
     <div className="App">
-      <PasswordStrengthChecker />
+      {/* <PasswordStrengthChecker /> */}
+      <CardReader></CardReader>
     </div>
   );
 }
